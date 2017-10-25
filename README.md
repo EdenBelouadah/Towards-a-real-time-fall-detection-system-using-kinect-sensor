@@ -1,2 +1,6 @@
 # Towards-a-real-fall-detection-system-using-kinect-sensor
 Falls are the major health problem among older people who live alone in their home. In the past few years, several studies have been proposed to solve the dilemma especially those which exploit video surveillance. In this paper, in order to allow older adult to safely continue living in home environments, the authors propose a method which combines two different configurations of the Microsoft Kinect: The first one is based on the person's depth information and his velocity (Ceiling mounted Kinect). The second one is based on the variation of bounding box parameters and its velocity (Frontal Kinect). Experimental results on real datasets are conducted and a comparative evaluation of the obtained results relative to the state-of-art methods is presented. The results show that the authors' method is able to accurately detect several types of falls in real-time as well as achieving a significant reduction in false alarms and improves detection rates.
+
+N. Baha, E. Belouadah and M.Ousmer, Towards a Real Time Fall Detection System using Kinect Sensor. International Journal of Computer Vision and Image Processing, Volume 6 • Issue 1 • January-June 2016.
+
+https://www.igi-global.com/article/towards-a-real-time-fall-detection-system-using-kinect-sensor/170595
